@@ -1,6 +1,8 @@
 = google_local
 
-Description goes here.
+The Google Local gem provides an easy way to interface with Google Local searches through the Google Search RESTful API.  It also uses the Google Maps geocoding API to find the central location for the searches.  
+
+It is still rough and needs some testing and various pieces need cleaned up.
 
 == Copyright
 
