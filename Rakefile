@@ -7,7 +7,7 @@ begin
     gem.name = "google_local"
     gem.summary = %Q{TODO}
     gem.email = "joshua.owens@gmail.com"
-    gem.homepage = "http://github.com/queso/google_local"
+    gem.homepage = "http://github.com/handcrafted/google_local"
     gem.authors = ["Josh Owens"]
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
